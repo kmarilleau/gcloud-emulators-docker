@@ -1,6 +1,7 @@
 {
   "name": "pubsub",
   "version": "1.0.0",
-  "author": "",
+  "description": "",
+  "author": "kmarilleau",
   "license": "MIT"
 }
