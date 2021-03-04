@@ -23,7 +23,6 @@ jobs:
         id: release
         with:
           release-type: node
-          package-name: ${{ matrix.emulator }}
           monorepo-tags: true
           path: emulators/${{ matrix.emulator }}
           token: ${{ secrets.GITHUB_TOKEN }}
